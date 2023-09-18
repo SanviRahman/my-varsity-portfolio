@@ -5,7 +5,7 @@
  }
  /* Header */
 .header{
-    background-image: url('../new-year-portfolio/images/banner/banner3.png');
+    background-image: url('/images/banner/banner3.png');
     width: 1600px;
     height: 808px;
     flex-shrink: 0;
@@ -225,7 +225,7 @@ nav a {
 }
 /* Section 3 and div 3 */
 .div3-1{
-    background-image: url('../new-year-portfolio/images/gradient1.png'),url('../new-year-portfolio/images/watch.png');
+    background-image:url('/images/gradient1.png'),url('/images/watch.png');
     width: 1140px;
     height: 300px;
     flex-shrink: 0;
